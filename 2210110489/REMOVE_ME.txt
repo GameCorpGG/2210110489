@@ -1,0 +1,7 @@
+The following files can be deleted as part of the refactor:
+- exception/GlobalExceptionHandler.java
+- dto/UrlRequest.java
+- dto/UrlResponse.java
+- entity/UrlMapping.java
+
+These are no longer used in the application.
